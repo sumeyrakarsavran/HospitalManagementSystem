@@ -1,6 +1,6 @@
 # HospitalManagementSystem
 
-
+Hospital Automation System is a Java-based project designed to manage hospital operations efficiently. It includes a login page for secure access, a patient screen for managing patient records, and a doctor screen for handling appointments and medical data. The system is supported by a database that stores patient details, doctor information, appointment schedules, and other medical records, ensuring a seamless and organized workflow.
 
 ## Hospital Automation Login Page
 ![Screenshot 2023-02-04 002448](https://github.com/user-attachments/assets/90dfb8ee-423e-44e3-9aab-ca06a3273158)
